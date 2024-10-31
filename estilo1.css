@@ -55,7 +55,7 @@ body {
   font-optical-sizing: auto;
   font-weight: 537;
   font-style: normal;
-  margin-top: 2%;
+  /* margin-top: 2%; */
  }
 
  h6 {
@@ -237,9 +237,9 @@ hr {
 }
 
 
-.buttoninicio {
+/* .buttoninicio {
   margin-bottom: 10%;
-}
+} */
 
 /* Pantalla Responsive */
 @media (max-width: 1280px) { 
