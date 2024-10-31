@@ -104,6 +104,10 @@ a {
   padding: 5%;
 }
 
+figcaption {
+  color: rgb(140, 144, 144);
+}
+
 b{
   color:rgb(157, 167, 227);
 }
