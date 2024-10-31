@@ -179,6 +179,10 @@ b{
     padding-bottom: 2%;
 }
 
+video {
+  border-radius:2%;
+}
+
 .imgright {
   width: 95%;
   border-radius: 2%;
